@@ -1,5 +1,6 @@
 <!-- PHP CODE HERE -->
 <?php
+// db connection
 include('./includes/_dbConnect.php');
 
 // value will be changed if the condition below executes
