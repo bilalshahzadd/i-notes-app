@@ -111,7 +111,6 @@ if (isset($_GET['delete'])) {
 
 
     <!-- UPDATE RECORDS MODAL HERE -->
-    <!-- Button trigger modal -->
 
     <!-- Modal -->
     <div class="modal fade" id="updateModal" tabindex="-1" aria-labelledby="updateModalLabel" aria-hidden="true">
